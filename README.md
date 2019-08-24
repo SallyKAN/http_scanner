@@ -1,6 +1,3 @@
-# comp5617_self_assessment
-code for unit COMP5617 self_assessment
-
 # Requirement
 * go1.12.9
 
